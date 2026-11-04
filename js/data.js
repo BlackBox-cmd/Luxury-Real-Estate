@@ -2,9 +2,9 @@ const propertyBlocks = [
     {
         id: 163,
         name: "Niland Avenue",
-        occupiedProperties: "1/8",
-        income: 1,
-        cost: 107010,
+        occupiedProperties: "4/8",
+        income: 6001,
+        cost: 404043,
         image: "assets/Blocks/Niland-Avenue.png",
         storage: 18000,
         properties: [
@@ -29,13 +29,13 @@ const propertyBlocks = [
                 storage: 2250
             },
             {
-                status: "Empty",
+                status: "Paid",
                 address: "Niland Avenue 3",
                 interior: "Trevor's Trailer",
-                renterName: "N/A",
-                phone: "N/A",
-                income: 0,
-                cost: 1000,
+                renterName: "Maxim Jhon",
+                phone: "698-7176",
+                income: 2000,
+                cost: 100011,
                 storage: 2250
             },
             {
@@ -69,23 +69,23 @@ const propertyBlocks = [
                 storage: 2250
             },
             {
-                status: "Empty",
+                status: "Paid",
                 address: "Niland Avenue 7",
                 interior: "Trevor's Trailer",
-                renterName: "N/A",
-                phone: "N/A",
-                income: 0,
-                cost: 1000,
+                renterName: "Freak Carlos",
+                phone: "262-3261",
+                income: 2000,
+                cost: 100011,
                 storage: 2250
             },
             {
-                status: "Empty",
+                status: "Paid",
                 address: "Niland Avenue 8",
                 interior: "Trevor's Trailer",
-                renterName: "N/A",
-                phone: "N/A",
-                income: 0,
-                cost: 1000,
+                renterName: "Freak Carlos",
+                phone: "262-3261",
+                income: 2000,
+                cost: 100011,
                 storage: 2250
             }
         ]

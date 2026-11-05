@@ -93,8 +93,8 @@ const propertyBlocks = [
     {
         id: 66,
         name: "Steele Way",
-        occupiedProperties: "4/6",
-        income: 58000,
+        occupiedProperties: "5/6",
+        income: 71000,
         cost: 48000,
         image: "assets/Blocks/Steele-Way.png",
         storage: 90000,
@@ -130,7 +130,7 @@ const propertyBlocks = [
                 storage: 15000
             },
             {
-                status: "Paid",
+                status: "Overdue",
                 address: "Steele Way 4",
                 interior: "Michael's Mansion",
                 renterName: "Kakarotshi Gg",
@@ -140,12 +140,12 @@ const propertyBlocks = [
                 storage: 15000
             },
             {
-                status: "Empty",
+                status: "Paid",
                 address: "Steele Way 5",
                 interior: "Michael's Mansion",
-                renterName: "N/A",
-                phone: "N/A",
-                income: 0,
+                renterName: "Obito Uchiha",
+                phone: "439-9083",
+                income: 13000,
                 cost: 8000,
                 storage: 15000
             },

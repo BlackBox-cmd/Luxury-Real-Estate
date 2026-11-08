@@ -1,5 +1,5 @@
 Status,Address,Interior,Renter CID,Renter Name,Phone,Income,Cost,Last Paid,Next Charge
-Overdue,Niland Avenue 1,Trevor's Trailer,733,Nexus Andree,863-6423,$1,$1,000,Oct 28 2026,Nov 04 2026
+Empty,Niland Avenue 1,Trevor's Trailer,N/A,N/A,N/A,$0,$1,000,N/A,N/A
 Empty,Niland Avenue 2,Trevor's Trailer,N/A,N/A,N/A,$0,$1,000,N/A,N/A
 Paid,Niland Avenue 3,Trevor's Trailer,2787,Maxim Jhon,698-7176,$2,000,$1,000,Nov 02 2026,Nov 09 2026
 Empty,Niland Avenue 4,Trevor's Trailer,N/A,N/A,N/A,$0,$1,000,N/A,N/A
@@ -7,8 +7,8 @@ Empty,Niland Avenue 5,Trevor's Trailer,N/A,N/A,N/A,$0,$1,000,N/A,N/A
 Empty,Niland Avenue 6,Trevor's Trailer,N/A,N/A,N/A,$0,$1,000,N/A,N/A
 Paid,Niland Avenue 7,Trevor's Trailer,356,Freak Carlos,262-3261,$2,000,$1,000,Nov 03 2026,Jan 04 2027
 Paid,Niland Avenue 8,Trevor's Trailer,356,Freak Carlos,262-3261,$2,000,$1,000,Nov 03 2026,Jan 05 2027
-Overdue,Steele Way 1,Michael's Mansion,2659,Kakashi Michle,428-6046,$10,000,$8,000,Oct 28 2026,Nov 04 2026
-Paid,Steele Way 2,High-End Apartment,1423,Mikey Kun,616-9900,$19,000,$8,000,Nov 01 2026,Nov 08 2026
+Paid,Steele Way 1,Michael's Mansion,2659,Kakashi Michle,428-6046,$10,000,$8,000,Nov 07 2026,Nov 18 2026
+Overdue,Steele Way 2,High-End Apartment,1423,Mikey Kun,616-9900,$19,000,$8,000,Nov 01 2026,Nov 08 2026
 Paid,Steele Way 3,High-End Apartment,1134,Minhaz Minhaz,696-6969,$14,000,$8,000,Nov 04 2026,Nov 11 2026
 Overdue,Steele Way 4,Michael's Mansion,1078,Kakarotshi Gg,926-4988,$15,000,$8,000,Oct 29 2026,Nov 05 2026
 Paid,Steele Way 5,Michael's Mansion,185,Obito Uchiha,439-9083,$13,000,$8,000,Nov 05 2026,Nov 12 2026

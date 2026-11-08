@@ -2,19 +2,19 @@ const propertyBlocks = [
     {
         id: 163,
         name: "Niland Avenue",
-        occupiedProperties: "4/8",
-        income: 6001,
+        occupiedProperties: "3/8",
+        income: 6000,
         cost: 8000,
         image: "assets/Blocks/Niland-Avenue.png",
         storage: 18000,
         properties: [
             {
-                status: "Overdue",
+                status: "Empty",
                 address: "Niland Avenue 1",
                 interior: "Trevor's Trailer",
-                renterName: "Nexus Andree",
-                phone: "863-6423",
-                income: 1,
+                renterName: "N/A",
+                phone: "N/A",
+                income: 0,
                 cost: 1000,
                 storage: 2250
             },
@@ -100,7 +100,7 @@ const propertyBlocks = [
         storage: 90000,
         properties: [
             {
-                status: "Overdue",
+                status: "Paid",
                 address: "Steele Way 1",
                 interior: "Michael's Mansion",
                 renterName: "Kakashi Michle",
@@ -110,7 +110,7 @@ const propertyBlocks = [
                 storage: 15000
             },
             {
-                status: "Paid",
+                status: "Overdue",
                 address: "Steele Way 2",
                 interior: "High-End Apartment",
                 renterName: "Mikey Kun",

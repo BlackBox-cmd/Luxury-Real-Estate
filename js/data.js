@@ -29,7 +29,7 @@ const propertyBlocks = [
                 storage: 2250
             },
             {
-                status: "Paid",
+                status: "Overdue",
                 address: "Niland Avenue 3",
                 interior: "Trevor's Trailer",
                 renterName: "Maxim Jhon",
@@ -93,8 +93,8 @@ const propertyBlocks = [
     {
         id: 66,
         name: "Steele Way",
-        occupiedProperties: "5/6",
-        income: 71000,
+        occupiedProperties: "6/6",
+        income: 84000,
         cost: 48000,
         image: "assets/Blocks/Steele-Way.png",
         storage: 90000,
@@ -130,7 +130,7 @@ const propertyBlocks = [
                 storage: 15000
             },
             {
-                status: "Overdue",
+                status: "Paid",
                 address: "Steele Way 4",
                 interior: "Michael's Mansion",
                 renterName: "Kakarotshi Gg",
@@ -150,12 +150,12 @@ const propertyBlocks = [
                 storage: 15000
             },
             {
-                status: "Empty",
+                status: "Paid",
                 address: "Steele Way 6",
                 interior: "Michael's Mansion",
-                renterName: "N/A",
-                phone: "N/A",
-                income: 0,
+                renterName: "Raiyan Mahmud",
+                phone: "390-6207",
+                income: 13000,
                 cost: 8000,
                 storage: 15000
             }
